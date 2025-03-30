@@ -1,0 +1,15 @@
+{
+    "Name": "sample",
+    "Tg": {
+        "token": "5637679524:AAFylITPk2gCDdRQ2MjS646-I9Q4WLtXRxA",
+        "chat_ids": [72309198]
+    },
+    "Pairs": {
+        "upb": {
+            "krw": ["btc", "eth", "xrp"]
+        },
+        "bmb": {
+            "krw": ["btc", "eth", "xrp"]
+        }
+    }
+}
